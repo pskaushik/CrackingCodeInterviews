@@ -1,0 +1,9 @@
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\bin\Debug\TestCode.dll
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\bin\Debug\TestCode.pdb
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\bin\Debug\ConsoleApplication4.exe
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\bin\Debug\ConsoleApplication4.pdb
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\obj\Debug\TestCode.dll
+C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\obj\Debug\TestCode.pdb
