@@ -1,0 +1,5 @@
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\bin\Release\CrackingCodeInterviews.exe.config
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\bin\Release\CrackingCodeInterviews.exe
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\bin\Release\CrackingCodeInterviews.pdb
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\obj\Release\CrackingCodeInterviews.exe
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\obj\Release\CrackingCodeInterviews.pdb

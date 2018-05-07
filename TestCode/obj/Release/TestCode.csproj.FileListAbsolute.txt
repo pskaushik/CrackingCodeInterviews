@@ -1,0 +1,9 @@
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Release\TestCode.dll
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Release\TestCode.pdb
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Release\CrackingCodeInterviews.exe
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Release\CrackingCodeInterviews.pdb
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\MyProjects\CrackingCodeInteviws\TestCode\obj\Release\TestCode.csprojResolveAssemblyReference.cache
+E:\MyProjects\CrackingCodeInteviws\TestCode\obj\Release\TestCode.dll
+E:\MyProjects\CrackingCodeInteviws\TestCode\obj\Release\TestCode.pdb

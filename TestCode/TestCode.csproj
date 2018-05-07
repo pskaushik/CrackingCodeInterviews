@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApplication4\LeetCode.csproj">
+    <ProjectReference Include="..\CrackingCodeInterviews\LeetCode.csproj">
       <Project>{5a09a8a8-a855-4e29-9386-945ca7c7a090}</Project>
       <Name>LeetCode</Name>
     </ProjectReference>

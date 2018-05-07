@@ -3,3 +3,9 @@ C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\Cons
 C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
 C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\bin\Debug\CrackingCodeInterviews.exe.config
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\bin\Debug\CrackingCodeInterviews.exe
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\bin\Debug\CrackingCodeInterviews.pdb
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\obj\Debug\CrackingCodeInterviews.exe
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\obj\Debug\CrackingCodeInterviews.pdb
+E:\MyProjects\CrackingCodeInteviws\CrackingCodeInterviews\obj\Debug\LeetCode.csprojResolveAssemblyReference.cache

@@ -14,5 +14,29 @@ namespace TestCode
             double output=MedianOfTwoSortedArrays.FindMedianSortedArrays(num1, num2);
             Assert.AreEqual(2.5, output);
         }
+       [TestMethod]
+        public void Test_IntToRoman()
+
+        {
+
+            string op= RomanNumberOperation.IntToRoman(1994);
+            Assert.AreEqual(op, "XX");
+        }
+
+        [TestMethod]
+        public void Test_RomanToInt()
+
+        {
+
+            int op = RomanNumberOperation.RomanToInt("IV");
+            Assert.AreEqual(op, 3);
+        }
+
+
+
     }
+
+
+
+
 }

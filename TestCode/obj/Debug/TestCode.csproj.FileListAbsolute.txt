@@ -7,3 +7,12 @@ C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\Test
 C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
 C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\obj\Debug\TestCode.dll
 C:\Users\v-pusing\documents\visual studio 2015\Projects\ConsoleApplication4\TestCode\obj\Debug\TestCode.pdb
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Debug\TestCode.dll
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Debug\TestCode.pdb
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Debug\CrackingCodeInterviews.exe
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Debug\CrackingCodeInterviews.pdb
+E:\MyProjects\CrackingCodeInteviws\TestCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\MyProjects\CrackingCodeInteviws\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+E:\MyProjects\CrackingCodeInteviws\TestCode\obj\Debug\TestCode.dll
+E:\MyProjects\CrackingCodeInteviws\TestCode\obj\Debug\TestCode.pdb
