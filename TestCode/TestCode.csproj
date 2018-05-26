@@ -51,6 +51,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Arrays.cs" />
+    <Compile Include="backTracking.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

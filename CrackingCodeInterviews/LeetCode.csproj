@@ -43,10 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays\ArrangeBools.cs" />
+    <Compile Include="Arrays\ArrangeNegativePositive.cs" />
+    <Compile Include="Arrays\AsciiToInteger.cs" />
+    <Compile Include="Arrays\CalculatePower.cs" />
+    <Compile Include="Arrays\ContainerWithMostWater.cs" />
+    <Compile Include="Arrays\FindPairWithMinDiff.cs" />
     <Compile Include="Arrays\MedianOfTwoSortedArrays.cs" />
+    <Compile Include="Arrays\ReverseAnInteger.cs" />
     <Compile Include="Arrays\RomanNumberOperations.cs" />
+    <Compile Include="Arrays\TrapWater.cs" />
+    <Compile Include="BackTracking\FindLengthOfConnectedCells.cs" />
+    <Compile Include="BinarySearch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sorting\MergeSort.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
